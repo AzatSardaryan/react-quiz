@@ -43,7 +43,7 @@ react-quiz/
 │ └── index.css # Global styles
 ├── data/ # JSON or static data files
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
