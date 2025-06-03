@@ -54,5 +54,5 @@ npm install
 npm start
 ```
 
-👨‍💻 Author
+## 👨‍💻 Author:
 Made with ❤️ by Azat Sardaryan
